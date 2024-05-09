@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21007902957",
+    "project_id": "sound-372eb",
+    "storage_bucket": "sound-372eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21007902957:android:bdcdbf1e6053f8fa0f44e4",
+        "android_client_info": {
+          "package_name": "com.example.sound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNe-pRMa9hpmpIE3MNz31_34W0tBD6Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
