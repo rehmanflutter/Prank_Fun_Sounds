@@ -1,19 +1,8 @@
-# sound
+# Prank sound App
 
 A new Flutter project.
+backend  with  firebase 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 <table>
   <tr>
     <td><img src="https://github.com/Rehman85/Prank_Fun_Sounds/assets/144882089/b3c8216f-b8fc-404b-9bc8-e0387ae2da2f" alt="Image 1"></td>
