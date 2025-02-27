@@ -17,9 +17,11 @@ backend  with  firebase
 
 
 # Prank sound New Update Screenshot 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/31dae911-1b20-4f75-bd33-50a0199734a4" alt="Screenshot 1" width="250">
-    <img src="https://github.com/user-attachments/assets/dddf5663-70cc-4756-b9f4-94fe77179bee" alt="Screenshot 2" width="250">
-    <img src="https://github.com/user-attachments/assets/ecca4d17-e549-4b66-9ec7-a22afc6bae54" alt="Screenshot 3" width="250">
-    <img src="https://github.com/user-attachments/assets/691007be-3abc-4449-af72-cdf2fbb0d85b" alt="Screenshot 4" width="250">
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/31dae911-1b20-4f75-bd33-50a0199734a4" alt="Screenshot 1" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/dddf5663-70cc-4756-b9f4-94fe77179bee" alt="Screenshot 2" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/ecca4d17-e549-4b66-9ec7-a22afc6bae54" alt="Screenshot 3" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/691007be-3abc-4449-af72-cdf2fbb0d85b" alt="Screenshot 4" width="250"></td>
+  </tr>
+</table>
